@@ -1,1 +1,6 @@
 boto3
+datasets
+pandas
+html5lib
+bs4
+streamlit
